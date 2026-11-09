@@ -1,0 +1,14 @@
+.env
+.venv/
+.DS_Store
+*.mp4
+*.mov
+*_games/
+clips/
+V3.2court_rallies/
+training_images/
+Volleyball-Detection-1/
+vball-net/
+volleyball_analytics/
+__pycache__/
+*.pyc

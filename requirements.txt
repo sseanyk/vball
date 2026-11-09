@@ -1,0 +1,9 @@
+# System dependency: ffmpeg must be installed (brew install ffmpeg)
+ultralytics>=8.4.109
+torch>=2.11.0
+opencv-python>=5.0.0
+moviepy>=2.2.1
+numpy>=2.3.5
+faster-whisper>=1.0.0
+roboflow>=1.4.0
+python-dotenv>=1.2.1
